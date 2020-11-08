@@ -1,0 +1,78 @@
+.navbar-style {
+  box-shadow: 0 5px 10px #6d6d6d;
+}
+
+.logo {
+  position: relative;
+  height: 70px;
+  padding: 5px 10px;
+}
+
+.container {
+  padding: 2px;
+}
+
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url(Images/eGolf.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-bottom: -45px;
+}
+
+.golfinfo {
+  margin-bottom: 350px;
+}
+
+.detailsText {
+  margin-left: 35px;
+}
+
+.returncss {
+  height: 34px;
+}
+
+.fixText {
+  margin-left: 10px;
+}
+
+.insideImage {
+  height: 435px;
+  box-shadow: 2px 2px 4px #000000;
+}
+
+.para {
+  display: inline;
+}
+
+.sectionRow {
+  padding: 300px;
+  margin-top: -300px;
+  margin-bottom: -300px;
+}
+
+.scroll {
+  overflow-y: auto;
+  max-height: 435px;
+}
+.Gmaps {
+  width: 40%;
+  height: 525px;
+  margin-right: 300px;
+  margin-bottom: 20px;
+}
+
+.twitterCol {
+  margin-left: 400px;
+}
+
+.detailsInfo {
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.detailsHeader {
+  margin-left: 30px;
+}
